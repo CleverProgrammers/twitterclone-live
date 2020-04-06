@@ -1,4 +1,4 @@
-const URL = "http://localhost:3000/tweets";
+const URL = "https://caaba17c.ngrok.io/tweets";
 const nextPageData = {
     loading: false,
     url: null
