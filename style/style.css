@@ -7,6 +7,7 @@ body {
 .container {
     display: flex;
     min-height: 100vh;
+    max-width: 1400px;
 }
 
 .navigation-container {
@@ -71,7 +72,7 @@ nav {
     border: 1px solid #979797;
     background-position: center;
     background-size: cover;
-    background-image: url(/assets/profile.png);
+    background-image: url(../assets/profile.png);
 }
 
 .main {
